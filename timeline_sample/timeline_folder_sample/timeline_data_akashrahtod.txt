@@ -1,0 +1,2 @@
+{"id": 882628112185409536, "screen_name": "akashrahtod", "name": "akash", "statuses_count": 1, "favourites_count": 12, "followers_count": 7, "friends_count": 110, "listed_count": 0, "verified": false, "protected": false, "created_at": "Wed Jul 05 15:51:55 +0000 2017", "location": ""}
+{"tweet_type": "source_tweet", "primary_tweet": {"tweet_id": 882629163433119744, "tweet_text": "Ajaz khan", "created_at": "Wed Jul 05 15:56:05 +0000 2017", "favorite_count": 0, "retweet_count": 0, "entities": {"hashtags": [], "symbols": [], "user_mentions": [], "urls": []}}}

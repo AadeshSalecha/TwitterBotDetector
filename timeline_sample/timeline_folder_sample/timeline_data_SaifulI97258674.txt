@@ -1,0 +1,2 @@
+{"id": 980777444503244802, "screen_name": "SaifulI97258674", "name": "Saiful Islam", "statuses_count": 1, "favourites_count": 23, "followers_count": 3, "friends_count": 140, "listed_count": 0, "verified": false, "protected": false, "created_at": "Mon Apr 02 12:02:19 +0000 2018", "location": "Dhubri, India"}
+{"tweet_type": "source_tweet", "primary_tweet": {"tweet_id": 990796837501059072, "tweet_text": "Hdjd", "created_at": "Mon Apr 30 03:35:48 +0000 2018", "favorite_count": 0, "retweet_count": 0, "entities": {"hashtags": [], "symbols": [], "user_mentions": [], "urls": []}}}
