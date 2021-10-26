@@ -1,6 +1,6 @@
 # TwitterBotDetector
 
-This repository is linked to my Undergraduate dissertation titles - *Empirical Study of the Spread of Misinformation: A Big Data Approach*. 
+This repository is linked to my Undergraduate dissertation titled - *Empirical Study of the Spread of Misinformation: A Big Data Approach*. 
 
 Please note that the code is still in a maintenance state.
 
